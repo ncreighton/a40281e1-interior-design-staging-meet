@@ -1,2 +1,28 @@
-# a40281e1-interior-design-staging-meet
-The interior design tool you'd build yourself — if you had the time.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Interior Design &amp; Staging Meeting Notes And Decision Log — fully configured and ready to use - Pre-
+# Interior Design & Staging Meeting Notes and Decision Log Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A7sLdPp1g0cVW6fycZM1Q)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A7sLdPp1g0cVW6fycZM1Q)
+
